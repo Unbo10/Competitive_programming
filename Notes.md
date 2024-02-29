@@ -1,0 +1,4 @@
+Just for the record, the smallest individual unit of any C++ program are tokens. They are a set of characters separated by a whitespace and must follow a set of rules to be run by the compiler.
+There are 5 types: keywords, identifiers, constants, strings, and operators.
+Keywords: Refer to lower-cased characters reserved by the program that have different meanings and therefore a set of rules after and before using them (you cannot have a double int x variable for example).
+Identifiers: Names given to the declared variables. In C++ they can have upper-case characters, underscore and digits (not at the beggining).
